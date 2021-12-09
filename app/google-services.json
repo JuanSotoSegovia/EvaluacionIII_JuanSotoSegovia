@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057791770174",
+    "project_id": "evaluacioniii-200b2",
+    "storage_bucket": "evaluacioniii-200b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057791770174:android:116b4f9a68cb0a32721b6f",
+        "android_client_info": {
+          "package_name": "com.example.evaluacioniii_juansotosegovia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057791770174-hf57jenpte3gav0o1tt2im7lojpgoig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkHKTwGdbkqy3jw6D1a7RBLn2VEY6QOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057791770174-hf57jenpte3gav0o1tt2im7lojpgoig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
